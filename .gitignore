@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+stock_research.db
+backend/stock_research.db
+.next/
+node_modules/
+dist/
